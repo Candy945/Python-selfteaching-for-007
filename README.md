@@ -3,7 +3,7 @@
 真实的世界没有老师，人人都应自学，才能够突破自己。欢迎加入『不出局』自学Python成长营。
 
 
-  
+
 -----
 
 # 学员手册
@@ -70,7 +70,7 @@ Python已经进入山东小学教材。而且，据说北京和山东也确定�
 * [A2_刻意练习清单](#A2.Deliberate-Practice-list.md)
     * [15天自学入门](#A2.Deliberate-Practice-list.md/15天自学入门)
     * [进阶练习90天](#A2.Deliberate-Practice-list.md/进阶练习90天)
-   
+
 
 
 -----
