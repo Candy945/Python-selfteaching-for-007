@@ -46,6 +46,9 @@ Python已经进入山东小学教材。而且，据说北京和山东也确定�
 
 * 1. Fork《Python-selfteaching-for-007》,并学员简介中提交自我介绍。
 * 2. Fork李笑来《自学是门手艺》https://github.com/selfteaching/the-craft-of-selfteaching ，并阅读《自学是门手艺》3遍以上。
+* 3. 申请加入[钉钉](https://tms.dingtalk.com/markets/dingtalk/download?spm=a3140.8736650.2231602.8.7f153a1ajaacNT)**作业交流群**[『不出局』自学Python成长营](https://h5.dingtalk.com/invite-page/index.html?bizSource=____source____&corpId=dingace87ab0796a5ca635c2f4657eb6378f&inviterUid=37409030D404C7EDFF4BBDCA828801C7&encodeDeptId=0054DC2B53AFE745)
+
+![请使用钉钉扫码加入](A3-Exercises【作业提交】/dingtalk.png)
 
 ----
 
