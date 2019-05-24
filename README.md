@@ -1,4 +1,4 @@
-# Python-selfteaching-for-007/『不出局』自学Python成长营
+# Python-selfteaching-for-007/自学Python成长营
 
 真实的世界没有老师，人人都应自学，才能够突破自己。欢迎加入『不出局』自学Python成长营。
 
@@ -6,6 +6,9 @@
   
 -----
 
+# 学员手册
+
+-----
 
 ## 基本介绍
 
@@ -42,16 +45,26 @@ Python已经进入山东小学教材。而且，据说北京和山东也确定�
 为保证学习效果，请保证充足的时间预算。
 
 
-## 编程入口
+## 自学入口
 
-* 1. Fork《Python-selfteaching-for-007》,并学员简介中提交自我介绍。
-* 2. Fork李笑来《自学是门手艺》https://github.com/selfteaching/the-craft-of-selfteaching ，并阅读《自学是门手艺》3遍以上。
+-----
+
+
+* 申请加入[钉钉](https://tms.dingtalk.com/markets/dingtalk/download?spm=a3140.8736650.2231602.8.7f153a1ajaacNT)**作业交流群**[『不出局』自学Python成长营](https://h5.dingtalk.com/invite-page/index.html?bizSource=____source____&corpId=dingace87ab0796a5ca635c2f4657eb6378f&inviterUid=37409030D404C7EDFF4BBDCA828801C7&encodeDeptId=0054DC2B53AFE745) ，确认进群后 @Candy945 获取学号。
+
+* 阅读『不出局』自学Python成长营[学员手册](https://github.com/Candy945/Python-selfteaching-for-007)
+
+* Fork 李笑来《自学是门手艺》https://github.com/selfteaching/the-craft-of-selfteaching ，并阅读3遍以上。
+
+![请使用钉钉扫码加入](A3-Exercises【作业提交】/dingtalk.png)
 
 ----
 
 
 
-## 目录
+## 课程目录
+
+-----
 
 * [A1_学习资料汇总](#A1.学习资料汇总.md)
 * [A2_刻意练习清单](#A2.Deliberate-Practice-list.md)
