@@ -1,6 +1,18 @@
-# Python-selfteaching-for-007/自学Python成长营
+# 自学Python成长营
 
 真实的世界没有老师，人人都应自学，才能够突破自己。欢迎加入『不出局』自学Python成长营。
+
+
+
+
+
+### 课程目录
+
+-----
+
+#### [15天自学入门](https://github.com/Candy945/Python-selfteaching-for-007/blob/master/A2.Deliberate-Practice-list.md#15%E5%A4%A9%E8%87%AA%E5%AD%A6%E5%85%A5%E9%97%A8)
+
+
 
 
 
@@ -56,19 +68,7 @@ Python已经进入山东小学教材。而且，据说北京和山东也确定�
 
 * Fork 李笑来《自学是门手艺》https://github.com/selfteaching/the-craft-of-selfteaching ，并阅读3遍以上。
 
-![请使用钉钉扫码加入](A3-Exercises【作业提交】/dingtalk.png)
-
-----
-
-
-
-## 课程目录
-
------
-
-* [15天自学入门](https://github.com/Candy945/Python-selfteaching-for-007/blob/master/A2.Deliberate-Practice-list.md#15%E5%A4%A9%E8%87%AA%E5%AD%A6%E5%85%A5%E9%97%A8)
-
-
+![请使用钉钉扫码加入](https://github.com/Candy945/Python-selfteaching-for-007/blob/master/A3-Exercises/dingtalk.png)
 
 
 -----
