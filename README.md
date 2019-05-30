@@ -68,7 +68,7 @@ Python已经进入山东小学教材。而且，据说北京和山东也确定�
 
 * Fork 李笑来《自学是门手艺》https://github.com/selfteaching/the-craft-of-selfteaching ，并阅读3遍以上。
 
-![请使用钉钉扫码加入](https://github.com/Candy945/Python-selfteaching-for-007/blob/master/A3-Exercises/dingtalk.png)
+![请使用钉钉扫码加入](https://github.com/Candy945/Python-selfteaching-for-007/blob/master/A3-Exercises/1_B_%E7%9B%B8%E5%85%B3%E6%96%87%E4%BB%B6/%E4%BD%9C%E4%B8%9A%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81(%E9%92%89%E9%92%89).png)
 
 
 -----
