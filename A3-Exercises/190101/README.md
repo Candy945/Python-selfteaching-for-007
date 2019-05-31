@@ -34,23 +34,44 @@
 ### Day1
 
 -----
-* 学习用时：6h30min
+* 学习用时：6小时
 
-这一天对我来说全是问题。
+一个同学的第一天是这样的：
 
-第一次接触编程，完全不懂英语，看到python这个单词还用有道词典查了一下什么意思。 看着作业单，一上午没任何收获，中午没吃饭，一直到下班也没弄懂。 纠结怎么创建分支，又不敢乱点生怕哪个地方出错。 它不认识我我也不认识它，就这样过了一天。 晚上想把孩子哄着了继续，不小心自己先睡着。 第一天就掉队了……
+> “第一次接触编程，完全不懂英语，看到python这个单词还用有道词典查了一下什么意思。 看着作业单，一上午没任何收获，中午没吃饭，一直到下班也没弄懂。纠结怎么创建分支，又不敢乱点生怕哪个地方出错。 它不认识我我也不认识它，就这样过了一天。晚上想把孩子哄着了继续，不小心自己先睡着。 第一天就掉队了……”
 
 
 ### Day2
 
 -----
 
+* 学习用时：3小时
 
-* 学习用时：5h20min
+按照课程要求，在Window系统上，完成了Visual Studio Code 和 Jupyterlab 的安装与配置。
 
-今天教练自己做了个视频发给我，我按照视频，把原来自己做的删了，又反复做了好几遍，终于知道怎么提交COMMIT 怎么向分支发起pull,为什么要这么做了。
+刚读到这里时，完全是懵的，因为我根本不知道 **“Anaconda Prompt”** 在哪里，最后我在【开始菜单】的 Anaconda3 程序目录里找到了 **“Anaconda Prompt”** 。
 
-安装软件老出问题，通过教练的指点都解决了。编程基本都是抄的，提前读文稿大概能读懂30%左右。还好今天赶完了。
+> Anaconda 安装完毕之后，打开 Terminal(Windows 系统需要打开之前安装的 Anaconda Prompt 输入），继续安装几个组件：
+
+> conda update conda
+> conda update anaconda
+> conda install -c conda-forge nodejs
+> conda install -c conda-forge jupyterlab # 这是用来升级 jupyter lab 到最新版的方法
+
+
+在配置 VS Code 的过程中，看不懂 Command Palette 指的是什么，经过反复尝试，确定[ ⇧⌘p ]指的就是 [ Ctrl + Shift + P ]。
+> 使用快捷键 ⇧⌘p 呼出 Command Palette，在其中输入 select interpreter，而后选中 Python: Select Interpreter。
+
+
+### Day3
+
+-----
+
+* 学习用时：3小时
+
+
+
+
 
 
 ### 入门小结
