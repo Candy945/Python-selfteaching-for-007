@@ -1,8 +1,8 @@
 # 使用Python的for...in循环,打印九九乘法表
 for i in range(1,10):
     for j in range(1,i+1):
-        print("{}*{}={}".format(i,j,i*j),end=" ")
-    print()
+        print("{}*{}={}".format(i,j,i*j),end=" ")       # end=" " 不换行
+    print()          # 换行，print()的默认值 end='\n'
 
 # 用Python的while循环,打印九九乘法表,并用条件判断把偶数行去掉
 i = 1
@@ -14,5 +14,5 @@ while i < 10:
     while j < i + 1:
         print("{}*{}={}".format(i,j,i*j),end=" ")
         j += 1
-    print()
+    print()             # 换行
     i += 1
