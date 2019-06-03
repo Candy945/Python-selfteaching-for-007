@@ -40,15 +40,21 @@ If the implementation is easy to explain, it may be a good idea. Namespaces are 
 
 '''
 
-text=text.replace(',',' ').replace('.',' ').replace('--',' ').replace('!',' ').replace('*',' ')#将非英文字符替换为空格
-text=text.lower()   #将所有英文字符改为小写
-text=text.split()   #以空格拆分独立的单词
-zidian={}
-for i in text:       #将字符转换为字典
-    count=text.count(i)
-    r1={i:count}
-    zidian.update(r1)
-print(zidian)
+a=text.replace(',',' ').replace('.',' ').replace('--',' ').replace('!',' ').replace('*',' ')#将非英文字符替换为空格
+a=a.lower()   #将所有英文字符改为小写
+b_list=a.split()   #以空格拆分独立的单词
+c=set(b_list)            #创建集合
+d={}                #创建字典
+
+for k in c: 
+    key=k
+    value=key.count(a)  
+    i={key:value}
+    d=d.update(i)
+
+for key in d:
+    print(key,d[key])    
+
 
 zidian1=sorted(zidian.items(),key=lambda x:x[1],reverse=True)   #按照单词出现次数，从大到小排序
 print(zidian1)

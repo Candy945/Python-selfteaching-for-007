@@ -10,7 +10,7 @@
 
 -----
 
-#### [15天自学入门](https://github.com/Candy945/Python-selfteaching-for-007/blob/master/A2.Deliberate-Practice-list.md#15%E5%A4%A9%E8%87%AA%E5%AD%A6%E5%85%A5%E9%97%A8)
+#### [15天自学入门](https://github.com/Candy945/Python-selfteaching-for-007/blob/master/A2.Deliberate-Practice-list.md#%E7%9B%AE%E5%BD%95)
 
 
 
