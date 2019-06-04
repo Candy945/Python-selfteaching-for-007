@@ -40,21 +40,22 @@ If the implementation is easy to explain, it may be a good idea. Namespaces are 
 
 '''
 
+from operator import itemgetter, attrgetter
+
 a=text.replace(',',' ').replace('.',' ').replace('--',' ').replace('!',' ').replace('*',' ')#将非英文字符替换为空格
-a=a.lower()   #将所有英文字符改为小写
-b_list=a.split()   #以空格拆分独立的单词
-c=set(b_list)            #创建集合
-d={}                #创建字典
+a=a.lower()               # 将所有英文字符改为小写
+b_list=a.split()           # 以空格拆分独立的单词，返回列表
+c=set(b_list)                # 创建集合，自动去重 
 
-for k in c: 
-    key=k
-    value=key.count(a)  
-    i={key:value}
-    d=d.update(i)
+d={x:a.count(x) for x in c}     #创建字典
 
-for key in d:
-    print(key,d[key])    
+d                   # 显示字典
+
+result=sorted(d.items(), key=itemgetter(1), reverse=True)  
 
 
-zidian1=sorted(zidian.items(),key=lambda x:x[1],reverse=True)   #按照单词出现次数，从大到小排序
-print(zidian1)
+
+for k  in result:      # 打印字典
+    print(k)    
+
+
