@@ -75,12 +75,7 @@ c_list                  # 显示 列表c_list
 
 c_list.sort()
 c_list                 # 显示 排序后列表c_list
-print('the list sorted:\n',c_list)      # 打印 列表排序后c_list
+print('the list sorted:\n',c_list)      #最后输出结果, 打印 排序后c_list
 
-#最后输出结果
 
-d_list=[x.title() for x in c_list]      # #每个单词首字母大写
-r=''                # 定义一个空字符串
-
-print(r.join(d_list))
 
